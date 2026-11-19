@@ -2,3 +2,13 @@
 This is the final part of project, this is a hull work quickchat project
 QuickChat is a Java console application that allows users to register, login, send messages, store messages, and manage stored messages.
 
+## Features
+- User Registration and Login with validation
+- Send messages with Message ID, Hash, Recipient and Flag
+- Store messages to JSON file
+- Read JSON file into parallel arrays and display to user
+- Display details for the longest message
+- Search messages by Recipient
+- Search messages by Message ID
+- Delete message using Message Hash
+- Display full Message Report
