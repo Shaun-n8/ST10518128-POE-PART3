@@ -34,3 +34,7 @@ Tests included:
 - LoginTest
 - QuickChatTest
 - StoredMessagesTest
+
+- ## Automated Tests
+This project uses GitHub Actions. On every push, .github/workflows/TestJava.yml runs ant test automatically.
+
