@@ -24,3 +24,13 @@ QuickChat is a Java console application that allows users to register, login, se
 1. Open the project in NetBeans
 2. Right-click project > Run
 3. Follow the menu to Register, Login, and Send Messages
+
+## How to Run Tests
+Right-click project > Test
+Or via terminal:
+ant test
+
+Tests included:
+- LoginTest
+- QuickChatTest
+- StoredMessagesTest
