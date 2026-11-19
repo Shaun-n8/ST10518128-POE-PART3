@@ -38,3 +38,12 @@ Tests included:
 - ## Automated Tests
 This project uses GitHub Actions. On every push, .github/workflows/TestJava.yml runs ant test automatically.
 
+## Project Structure
+- src/shaun/ - Main application code
+- test/ - Unit tests
+- .github/workflows/TestJava.yml - CI workflow
+
+## Author
+Shaun - PROG5121 Programming 1A
+
+
