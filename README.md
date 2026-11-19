@@ -1,5 +1,5 @@
 # ST10518128-POE-PART3
-This is the final part of project, this is a hull work quickchat project
+This is the final part of project.
 QuickChat is a Java console application that allows users to register, login, send messages, store messages, and manage stored messages.
 
 ## Features
@@ -12,3 +12,10 @@ QuickChat is a Java console application that allows users to register, login, se
 - Search messages by Message ID
 - Delete message using Message Hash
 - Display full Message Report
+- 
+## Technologies Used
+- Java 17
+- NetBeans IDE
+- Apache Ant
+- JUnit for Unit Testing
+- GitHub Actions for Automated Testing
